@@ -1,0 +1,22 @@
+# .NET Build outputs
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.vs/
+
+# Logs
+Logs/
+*.log
+
+# Test data (generated at runtime)
+TestData/
+
+# Reports (generated exports)
+Reports/
+
+# IDE
+.vs/
+.vscode/
+*.DotSettings.user
